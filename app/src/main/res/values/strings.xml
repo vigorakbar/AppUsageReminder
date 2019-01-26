@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppUsageReminder</string>
+    <string name="accessibility_service_name">app usage service</string>
+    <string name="accessibility_service_description">service to monitor app usage</string>
+</resources>
